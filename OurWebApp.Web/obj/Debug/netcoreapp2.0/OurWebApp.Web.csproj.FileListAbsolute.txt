@@ -1,0 +1,11 @@
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.deps.json
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.json
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.runtimeconfig.dev.json
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\bin\Debug\netcoreapp2.0\OurWebApp.Web.pdb
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csprojAssemblyReference.cache
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfoInputs.cache
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.AssemblyInfo.cs
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.dll
+C:\Users\Suraj\Downloads\microsoft-azure-deployment-requirements-specifying\03\demos\AzureDeploy\github\OurWebApp.Web\obj\Debug\netcoreapp2.0\OurWebApp.Web.pdb
